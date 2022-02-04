@@ -23,3 +23,7 @@ for(let i = 0; i<= 2000; i++){
     let rounded = Math.ceil(outPut);
     console.log(rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded, rounded, rounded,rounded, rounded);
 }
+
+// const number = -78;
+// const anser = Math.abs(number);
+// console.log(anser);
